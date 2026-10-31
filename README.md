@@ -45,8 +45,8 @@ Browser -> Gateway (FastAPI) -> [orders] -> Inventory -> [inventory-updates] -> 
 
 ## Screenshots
 
-![Shop](docs/screenshots/01-beranda.png)
-![Admin dashboard](docs/screenshots/07-admin-dashboard.png)
+![Shop](dashboard-user.jpeg)
+![Admin dashboard](dashboard-admin.jpeg)
 
 ## Quick start
 
