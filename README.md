@@ -88,7 +88,7 @@ python -m tools.fault_test consumer
 python -m tools.plot_results
 ```
 
-Results are written to `results/`. See [`docs/PENGUJIAN.md`](docs/PENGUJIAN.md) for the test plan.
+Results are written to `result` on PPT.
 
 ## Deployment on Azure
 
