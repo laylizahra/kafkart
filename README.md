@@ -3,7 +3,7 @@
 Kafkart is an online store designed for flash sales, where many buyers compete for a very small stock.
 Orders flow through **Apache Kafka** as events, stock is reserved with an atomic SQL update, and
 buyers see stock and order status change live in the browser. The whole system runs with
-**Docker Compose** and is deployed on a single **Microsoft Azure** virtual machine.
+**Docker Compose** and is deployed on a single **Microsoft Azure** virtual machine..
 
 > Small Project, Cloud Computing, Department of Mathematics, Institut Teknologi Sepuluh Nopember (ITS).
 
